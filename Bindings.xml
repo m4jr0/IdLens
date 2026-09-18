@@ -1,0 +1,8 @@
+<Bindings>
+    <Binding
+        name="IDLENS_OPEN_DATABASE"
+        category="BINDING_HEADER_IDLENS"
+        default="ALT-W">
+        IDLens_OpenDatabase()
+    </Binding>
+</Bindings>

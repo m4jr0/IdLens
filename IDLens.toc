@@ -1,0 +1,17 @@
+## Interface: 160001, 120100
+## Title: IDLens
+## Notes: Displays internal IDs and provides database links.
+## Author: major
+## Version: 0.1.0
+
+Client.lua
+Utils.lua
+Logger.lua
+Localization.lua
+Database.lua
+UI.lua
+Identifier.lua
+EntityResolver.lua
+Tooltip.lua
+QuestTracker.lua
+Core.lua
